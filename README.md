@@ -13,3 +13,5 @@ Homepage : [ [RecipeGen: A Step-Aligned Multimodal Benchmark for Real-World Reci
 ## Metric 
 - Ingredient Accuracy (Based on [Qwen2.5-VL](https://huggingface.co/Qwen/Qwen2.5-VL-32B-Instruct))
 - Interaction Faithfulness  (Based on [GPT-4o](https://openai.com/index/hello-gpt-4o/))
+- Cross-Step Consistency (Based on [DINOv2](https://arxiv.org/abs/2304.07193))
+- Goal and Step Faithfulness (Based on [CLIP](https://arxiv.org/abs/2103.00020))

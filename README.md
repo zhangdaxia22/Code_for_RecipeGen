@@ -10,3 +10,6 @@ Homepage : [ [RecipeGen: A Step-Aligned Multimodal Benchmark for Real-World Reci
 ## Baseline for Video Generation models.
 - Opensora [ [paper](https://arxiv.org/abs/2412.20404)]
 - HunyuanVideo [ [github](https://github.com/Tencent-Hunyuan/HunyuanVideo)]
+## Metric 
+- Ingredient Accuracy (Based on [Qwen2.5-VL](https://huggingface.co/Qwen/Qwen2.5-VL-32B-Instruct))
+- Interaction Faithfulness  (Based on [GPT-4o](https://openai.com/index/hello-gpt-4o/))
